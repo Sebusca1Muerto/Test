@@ -104,6 +104,8 @@ Detect any of the following keywords to identify chat termination:
 
 /My notes:
 
+It worked Gemini, thank you so much :D
+
 Apparently it's a IDX uptade that fucked someting up, tabs won't open when IDX starts.
 I think it tries to open them but it's just loading.
 MySQL won't work neither, propably the same reason.
