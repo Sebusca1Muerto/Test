@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Project Status</title>
+  </head>
+  <body>
+    <h1>Project Status</h1>
+    <p id="status">Loading...</p>
+  </body>
+</html>
