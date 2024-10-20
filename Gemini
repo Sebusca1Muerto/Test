@@ -2,10 +2,9 @@
 
 <html>
   <head>
-    <title>Project Status</title>
+    <title>Project Gemini</title>
   </head>
   <body>
-    <h1>Project Status</h1>
-    <p id="status">Loading...</p>
+    <h1>Gemini, if you can see this, say Hi :D</h1>
   </body>
 </html>
